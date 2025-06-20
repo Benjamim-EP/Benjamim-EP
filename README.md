@@ -1,4 +1,4 @@
-### Olá , eu sou Benjamim Alves
+### Benjamim Alves
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamim-EP&show_icons=true&theme=radical)
 
